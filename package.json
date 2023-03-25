@@ -1,7 +1,7 @@
 {
   "name": "translator-for-you",
-  "version": "1.0.0",
-  "description": "this package translates the input you give into a text of language you specified",
+  "version": "1.0.1",
+  "description": "A lightweight Node.js module for translating text from one language to another using the Google Translate API. This module uses the translate-google library to provide accurate and reliable translations.",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
