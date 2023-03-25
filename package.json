@@ -1,0 +1,18 @@
+{
+  "name": "translator-for-you",
+  "version": "1.0.0",
+  "description": "this package translates the input you give into a text of language you specified",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "translate",
+    "translation"
+  ],
+  "author": "mohit",
+  "license": "MIT",
+  "dependencies": {
+    "translate-google": "^1.5.0"
+  }
+}
